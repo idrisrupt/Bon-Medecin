@@ -1,0 +1,70 @@
+@charset "utf-8";
+body{
+  background-color: #3498db;
+}
+#main {
+	padding-top: 100px;
+	background-attachment: fixed;
+	background-size: 100% auto;
+
+}
+input {
+  outline: 0;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+}
+#titre {
+	text-align: center;
+color: #FFFFFF;
+}
+.center{
+	display: flex;
+	justify-content: center;
+}
+.login-page {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+}
+.form {
+  position: relative;
+  z-index: 1;
+ background-color: #e7ecef;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 45px;
+  text-align: center;
+  
+}
+#button {
+  text-transform: uppercase;
+  outline: 0;
+  background: #3498db;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  color: #e7ecef;
+  font-size: 14px;
+  -webkit-transition: all 0.3 ease;
+  transition: all 0.3 ease;
+  cursor: pointer;
+}
+.form .message {
+  margin: 15px 0 0;
+  color: #b3b3b3;
+  font-size: 12px;
+  color: #4CAF50;
+  text-decoration: none;
+}
+a{
+	color: #3498db;
+}
+#btn{
+background-color: #3498db;
+color: #e7ecef;
+}

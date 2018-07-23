@@ -1,0 +1,104 @@
+body{
+  background: #3498db;
+}
+#slogan {
+  color: #086DE7;
+  text-align: center;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  
+  font-size: 3em;
+  font-weight: 500;
+}
+#slogon1 {
+  color: #086DE7;
+  font-size: large;
+  text-align: center;
+  margin-top: 5px;
+  padding-top: 0px;
+}
+#textfield1 {
+  border-radius: 5px;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  width: 20%;
+  min-width: 100px;
+  margin-left: 10px;
+  margin-right: 10px;
+  
+}
+#divtab{
+  text-align: center;
+  padding-top: 100px;
+}
+
+#select {
+  border-radius: 5px;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  width: 20%;
+  min-width: 100px;
+}
+#ville {
+  border-radius: 5px;
+  padding-top: 8px;
+  padding-right: 8px;
+  padding-bottom: 8px;
+  padding-left: 8px;
+  width: 20%;
+  min-width: 100px;
+}
+table img{
+  float: left;
+  margin-right: 5%;
+}
+#result{
+border-spacing: 20px;
+  margin: auto;
+  width: 70%; 
+  background: #fff;
+}
+.prendrerdv{
+
+  float: right;
+  margin-top: auto;
+  margin-bottom: auto;
+ border-radius: 5px;
+  color: #ffffff;
+  font-size: 12px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-left: 10px;
+  border-color: #fff;
+  border:solid;
+  font-weight: bold;
+}
+.lien{
+  display: flex;
+  justify-content: center;
+}
+#btnrech {
+ margin-right: 100px;
+  
+  color:#fff;
+  font-size: 14px;
+  font-weight: 400;
+  display: block;
+  outline: none;
+  border: solid;
+  border-color: white;
+  border-radius:5px;
+  text-transform:uppercase;
+  font-weight: bold;
+  cursor: pointer;
+  float: right;
+  width: 200px; 
+  margin-left: -100px; 
+}

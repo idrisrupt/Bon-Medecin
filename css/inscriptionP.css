@@ -1,0 +1,101 @@
+body{background-color:#3498db;
+}
+#btnenvoi {
+	display: flex;
+	justify-content: center;
+
+}/*
+table {
+	width: 50%;
+	display: flex;
+	margin: auto;
+	justify-content: center;
+	padding-top: 10%;
+}
+*/
+#tab{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+#nom:active, #prenom:active,#lieu:active,#date:active,#email:active,#tel:active,#mdp:active,#mdpc:active,#sexe:active, #adresse:active{
+	border-color: #9CCAF7;
+
+}
+	
+            #nom, #prenom, #lieu, #date, #email, #tel, #mdp,#mdpc,#sexe, #adresse{
+	color: white;
+	font-size: 13px;
+	width: 90%;
+	padding: 10px;
+	border: 1px solid #e7ecef;
+	background: transparent;
+	border-radius: 5px;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.2);
+	text-shadow: 0px 0px #AAC5FB;
+}
+
+
+
+	Label {color: whitesmoke;}
+	#submit {
+	width: 20%;
+	color: white;
+	font-size: 13px;
+	text-shadow: 0px 3px 0px rgba(0,0,0,0.3);
+	margin-top: 20px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 1px solid #2346E7;
+	background-color: #A5C7FB;
+            }
+	#submit:hover {box-shadow: 2px 2px 4px rgba(76,49,65,0.7);
+            text-shadow:  2px 4px 1px rgba(0,0,0,0.3);}
+	#nom:hover,#prenom:hover, #date:hover, #lieu:hover, #adresse:hover, #email:hover, #tel:hover, #mdp:hover,#sexe:hover, #mdpc:hover{
+	border-color: #9CCAF7;
+}
+#titre {
+	margin: auto;
+	width: 70%;
+}
+
+a {
+	text-decoration: none;
+}
+#lientitre {
+	
+	font-size: 15px;
+	float: right;
+	
+}
+#conne{
+	margin-left:50px;
+}
+h3,span{
+	color: #e7ecef;
+	display: inline-block;
+}
+input[type="submit"]{
+    margin-top:50px;
+	margin-bottom:50px;
+	border-color: white;
+	border-style: double;
+	width: 200px;
+	padding: 0.5em 3em;
+  color:#fff;
+  font-size: 19px;
+ font-family: FirstFont;
+    font-weight: bold;
+  display: block;
+  outline: none;
+  border: solid;
+  border-radius:5px;
+  text-transform:uppercase;
+  
+  cursor: pointer;
+  background:#3498db;
+
+}
+#title{
+	color: white;
+}
