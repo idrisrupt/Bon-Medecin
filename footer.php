@@ -23,5 +23,5 @@
             </span>
 
     </div>
-    <div id="fin"><em >2018 BON MEDECIN -- Tous droits réservés</em></div>
+    <div id="fin"><em >2018 BON MEDECIN - Tous droits réservés</em></div>
 </footer>	  
